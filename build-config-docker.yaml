@@ -7,7 +7,7 @@ spec:
   source:
       git:
         ref: master
-        uri: https://github.com/mmumshad/simple-webapp-docker
+        uri: https://github.com/alessandrolomanto/simple-webapp-docker.git
       type: Git
   strategy:
       dockerStrategy:
